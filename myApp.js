@@ -45,7 +45,6 @@ const app = express();
 
 
 
-require(helmet)
 
 module.exports = app;
 const api = require('./server.js');
